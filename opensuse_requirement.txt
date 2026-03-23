@@ -1,7 +1,7 @@
 ##############To be  install 
 zsh git
 ###############To  be uninstall 
-gnome-weather gnome-contacts gnome-maps gnome-photos gnome-videos gnome-chess firefox  lightsoff gnome-mahjongg gnome-mines quadrapassel iagno gnome-sudoku swell-foop evolution polari vinagre remote-viewer transmission-gtk virt-manager
+gnome-weather gnome-contacts gnome-maps gnome-photos gnome-videos gnome-chess firefox  lightsoff gnome-mahjongg gnome-mines quadrapassel iagno gnome-sudoku swell-foop evolution polari vinagre remote-viewer transmission-gtk virt-manager gnome-clocks gnome-tour gnome-music snapshot
 
 ############zsh#########
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
